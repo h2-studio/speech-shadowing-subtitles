@@ -1,10 +1,10 @@
-# Subtitles for Speech Shadowing App
+# Resources for Speech Shadowing App
 
-Shared subtitles of audios and videos for practice speech shadowing technique on https://h2-studio.github.io/speech-shadowing-app/
+Resources such as shared subtitles of audios and videos for practice speech shadowing technique on https://h2-studio.github.io/speech-shadowing-app/
 
 ## How to Contribute
 
-The Speech Shadowing App reads resources from [resources.json](./resources.json). You can update the json to add or update resources. The format is
+The Speech Shadowing App reads resource repository from [resources.json](./resources.json). We can update the json to add, update or delete the resource information. The format is
 
 ```json
 {
@@ -24,4 +24,4 @@ The Speech Shadowing App reads resources from [resources.json](./resources.json)
 }
 ```
 
-Also, you can create a subtitle (.srt) file of an audio(.mp3) or a audio(.mp4) by any tools such as [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit) and upload it to this git repo.
+For best solution is we create a subtitle (.srt) file of an audio(.mp3) or a audio(.mp4) by any tools such as [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit) and upload it to this git repo and update the json and use "sourceUrl" for the entity.
