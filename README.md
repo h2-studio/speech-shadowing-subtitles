@@ -25,3 +25,6 @@ The Speech Shadowing App reads resource repository from [resources.json](./resou
 ```
 
 For best solution is we create a subtitle (.srt) file of an audio(.mp3) or a audio(.mp4) by any tools such as [SubtitleEdit](https://github.com/SubtitleEdit/subtitleedit) and upload it to this git repo and update the json and use "sourceUrl" for the entity.
+
+## Copyright
+If you find any resources that infringe upon your copyright, please contact me at weironghuang31@outlook.com, and we will remove those resources.
