@@ -58,6 +58,15 @@
   "VOA Everyday Grammar TV": [
     {
       "type": "video",
+      "title": "Grammar and Cars, Part 2",
+      "releasedDate": "2024-03-19",
+      "duration": "00:02:00",
+      "from": "https://learningenglish.voanews.com/a/7532737.html",
+      "sourceUrl": "https://av.voanews.com/Videoroot/Pangeavideo/2024/03/0/01/01000000-0aff-0242-e8dd-08dc4785d8b7_480p.mp4",
+      "subtitlePath": "/subtitles/voa/7532737.srt"
+    },
+    {
+      "type": "video",
       "title": "Grammar and Cars, Part 1",
       "releasedDate": "2024-03-12",
       "duration": "00:02:00",
