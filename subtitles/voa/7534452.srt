@@ -1,0 +1,44 @@
+﻿1
+00:00:01,770 --> 00:00:04,770
+Welcome to the Voice of America's News Words.
+
+2
+00:00:08,130 --> 00:00:12,119
+OpenAI, the creator of ChatGPT,
+
+3
+00:00:12,480 --> 00:00:17,100
+said it is testing a new video maker called Sora.
+
+4
+00:00:18,750 --> 00:00:19,380
+prompt
+
+5
+00:00:21,030 --> 00:00:26,250
+Sora instantly creates short videos based on prompts
+
+6
+00:00:26,940 --> 00:00:31,320
+OpenAI said it is communicating with artists,
+
+7
+00:00:31,650 --> 00:00:36,210
+policymakers and others to identify problems
+
+8
+00:00:36,450 --> 00:00:38,280
+before its public release.
+
+9
+00:00:39,660 --> 00:00:43,830
+In this example, a prompt is a command to a computer.
+
+10
+00:00:44,828 --> 00:00:51,270
+A prompt can also be an action that causes someone to do or say something.
+
+11
+00:00:52,440 --> 00:00:56,580
+Promptly describes something that has done without delay.
+
