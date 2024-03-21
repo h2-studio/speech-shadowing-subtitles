@@ -1,6 +1,6 @@
 # Resources for Speech Shadowing App
 
-Resources such as shared subtitles of audios and videos for practice speech shadowing technique on https://h2-studio.github.io/speech-shadowing-app/
+Resources such as shared subtitles of audios and videos for practice speech shadowing technique on https://h2-studio.github.io/repeat-app/
 
 ## How to Contribute
 
