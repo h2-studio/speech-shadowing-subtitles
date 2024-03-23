@@ -6,7 +6,7 @@
     "duration": "00:01:00",
     "from": "https://learningenglish.voanews.com/a/7516761.html",
     "sourceUrl": "https://av.voanews.com/Videoroot/Pangeavideo/2024/03/0/01/01000000-c0a8-0242-e7b2-08dc3e2ff29a_480p.mp4",
-    "subtitlePath": "/subtitles/voa/7516761.srt"
+    "subtitlePath": "7516761.srt"
   },
   {
     "type": "video",
@@ -15,7 +15,7 @@
     "duration": "00:01:00",
     "from": "https://learningenglish.voanews.com/a/7508964.html",
     "sourceUrl": "https://av.voanews.com/Videoroot/Pangeavideo/2024/02/0/01/01000000-0aff-0242-33a5-08dc3a0a6ae2_480p.mp4",
-    "subtitlePath": "/subtitles/voa/7508964.srt"
+    "subtitlePath": "7508964.srt"
   },
   {
     "type": "video",
@@ -24,7 +24,7 @@
     "duration": "00:01:00",
     "from": "https://learningenglish.voanews.com/a/7500203.html",
     "sourceUrl": "https://av.voanews.com/Videoroot/Pangeavideo/2024/02/0/01/01000000-0a00-0242-3929-08dc34a633c8_480p.mp4",
-    "subtitlePath": "/subtitles/voa/7500203.srt"
+    "subtitlePath": "7500203.srt"
   },
   {
     "type": "video",
@@ -33,7 +33,7 @@
     "duration": "00:01:00",
     "from": "https://learningenglish.voanews.com/a/7487895.html",
     "sourceUrl": "https://av.voanews.com/Videoroot/Pangeavideo/2024/02/0/01/01000000-0a00-0242-6ef1-08dc2dabc6a3_480p.mp4",
-    "subtitlePath": "/subtitles/voa/7487895.srt"
+    "subtitlePath": "7487895.srt"
   },
   {
     "type": "video",
@@ -42,7 +42,7 @@
     "duration": "00:01:00",
     "from": "https://learningenglish.voanews.com/a/7479615.html",
     "sourceUrl": "https://av.voanews.com/Videoroot/Pangeavideo/2024/02/0/01/01000000-0a00-0242-dc27-08dc28cd4ba3_480p.mp4",
-    "subtitlePath": "/subtitles/voa/7479615.srt"
+    "subtitlePath": "7479615.srt"
   },
   {
     "type": "video",
@@ -51,6 +51,6 @@
     "duration": "00:01:00",
     "from": "https://learningenglish.voanews.com/a/7479615.html",
     "sourceUrl": "https://av.voanews.com/Videoroot/Pangeavideo/2024/02/0/01/01000000-0a00-0242-af97-08dc236611bd_480p.mp4",
-    "subtitlePath": "/subtitles/voa/7467087.srt"
+    "subtitlePath": "7467087.srt"
   }
 ]
