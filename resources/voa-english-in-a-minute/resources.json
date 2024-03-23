@@ -1,6 +1,15 @@
 [
   {
     "type": "video",
+    "title": "Fools Rush in Where Angels Fear to Tread",
+    "releasedDate": "2024-03-18",
+    "duration": "00:01:00",
+    "from": "https://learningenglish.voanews.com/a/7529926.html",
+    "sourceUrl": "https://av.voanews.com/Videoroot/Pangeavideo/2024/03/0/01/01000000-0aff-0242-9fb1-08dc453bfeec_480p.mp4",
+    "subtitlePath": "7529926.srt"
+  },
+  {
+    "type": "video",
     "title": "The More the Merrier",
     "releasedDate": "2024-03-11",
     "duration": "00:01:00",
