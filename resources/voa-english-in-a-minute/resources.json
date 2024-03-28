@@ -1,6 +1,15 @@
 [
   {
     "type": "video",
+    "title": "Pull the Plug",
+    "releasedDate": "2024-03-25",
+    "duration": "00:01:00",
+    "from": "https://learningenglish.voanews.com/a/7541863.html",
+    "sourceUrl": "https://av.voanews.com/Videoroot/Pangeavideo/2024/03/0/01/01000000-0aff-0242-dbd0-08dc4cf0b4bb_480p.mp4",
+    "subtitlePath": "7541863.srt"
+  },
+  {
+    "type": "video",
     "title": "Fools Rush in Where Angels Fear to Tread",
     "releasedDate": "2024-03-18",
     "duration": "00:01:00",
