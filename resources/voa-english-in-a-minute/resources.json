@@ -106,5 +106,23 @@
     "from": "https://learningenglish.voanews.com/a/7438093.html",
     "sourceUrl": "https://av.voanews.com/Videoroot/Pangeavideo/2024/01/0/01/01000000-0aff-0242-7bcb-08dc13c1c12f_480p.mp4",
     "subtitlePath": "7438093.srt"
+  },
+  {
+    "type": "video",
+    "title": "Bury the Hatchet",
+    "releasedDate": "2024-01-08",
+    "duration": "00:01:00",
+    "from": "https://learningenglish.voanews.com/a/7428380.html",
+    "sourceUrl": "https://av.voanews.com/Videoroot/Pangeavideo/2024/01/0/01/01000000-c0a8-0242-d892-08dc0e210c13_480p.mp4",
+    "subtitlePath": "7428380.srt"
+  },
+  {
+    "type": "video",
+    "title": "Pinch Hit",
+    "releasedDate": "2024-01-01",
+    "duration": "00:01:00",
+    "from": "https://learningenglish.voanews.com/a/7406160.html",
+    "sourceUrl": "https://av.voanews.com/Videoroot/Pangeavideo/2023/12/0/01/01000000-c0a8-0242-d151-08dc0c82392f_480p.mp4",
+    "subtitlePath": "7406160.srt"
   }
 ]
