@@ -1,6 +1,15 @@
 [
   {
     "type": "video",
+    "title": "Dicey",
+    "releasedDate": "2024-04-29",
+    "duration": "00:01:00",
+    "from": "https://learningenglish.voanews.com/a/7586863.html",
+    "sourceUrl": "https://av.voanews.com/Videoroot/Pangeavideo/2024/04/0/01/01000000-0aff-0242-71b9-08dc662c19cd_480p.mp4",
+    "subtitlePath": "7586863.srt"
+  },
+  {
+    "type": "video",
     "title": "Catch Some Zs",
     "releasedDate": "2024-04-22",
     "duration": "00:01:00",
