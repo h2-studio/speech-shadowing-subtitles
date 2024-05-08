@@ -10,5 +10,10 @@
   {
     "title": "VOA News Words",
     "path": "/resources/voa-news-words"
+  },
+  {
+    "title": "How to Pronounce",
+    "path": "/resources/voa-how-to-pronounce"
   }
+
 ]
