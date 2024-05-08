@@ -1,6 +1,15 @@
 [
   {
     "type": "video",
+    "title": "Grammar, Economy - Prices, Part 2",
+    "releasedDate": "2024-05-07",
+    "duration": "00:02:00",
+    "from": "https://learningenglish.voanews.com/a/7600262.html",
+    "sourceUrl": "https://voa-video-ns.akamaized.net/Pangeavideo/2024/05/0/01/01000000-0aff-0242-b140-08dc6e9770b2_480p.mp4",
+    "subtitlePath": "7600262.srt"
+  },
+  {
+    "type": "video",
     "title": "Grammar, Economy - Prices, Part 1",
     "releasedDate": "2024-04-30",
     "duration": "00:02:00",
