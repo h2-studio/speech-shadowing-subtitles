@@ -10,6 +10,15 @@
   },
   {
     "type": "video",
+    "title": "Under Your Belt",
+    "releasedDate": "2024-05-13",
+    "duration": "00:01:00",
+    "from": "https://learningenglish.voanews.com/a/7606596.html",
+    "sourceUrl": "https://voa-video-ns.akamaized.net/Pangeavideo/2024/05/0/01/01000000-0aff-0242-4167-08dc7131c0e2_480p.mp4",
+    "subtitlePath": "7606596.json"
+  },
+  {
+    "type": "video",
     "title": "Over the top",
     "releasedDate": "2024-05-06",
     "duration": "00:01:00",

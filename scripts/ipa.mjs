@@ -21,7 +21,7 @@ import * as path from "path";
 const LOCAL_CACHE_FOLDER = "./.cache/";
 const API_URL = "https://wordsapiv1.p.rapidapi.com/words/%WORD%";
 const API_KEY_PATH = ".key";
-const WORD_REG = /[A-Za-z]+/g;
+const WORD_REG = /[A-Za-z']+/g;
 
 let WORDSAPI_KEY = null;
 
