@@ -1,6 +1,15 @@
 [
   {
     "type": "video",
+    "title": "Get Your Act Together",
+    "releasedDate": "2024-06-10",
+    "duration": "00:01:00",
+    "from": "https://learningenglish.voanews.com/a/7647349.html",
+    "sourceUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2024/06/0/01/01000000-0aff-0242-58b3-08dc872f2782_480p.mp4",
+    "subtitlePath": "7647349.json"
+  },
+  {
+    "type": "video",
     "title": "Pull (Any or No) Punches",
     "releasedDate": "2024-06-03",
     "duration": "00:01:00",
