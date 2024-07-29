@@ -1,6 +1,15 @@
 [
   {
     "type": "video",
+    "title": "Red Tape",
+    "releasedDate": "2024-07-01",
+    "duration": "00:01:00",
+    "from": "https://learningenglish.voanews.com/a/7677436.html",
+    "sourceUrl": "https://voa-video-ns.akamaized.net/pangeavideo/2024/06/0/01/01000000-0a00-0242-38d8-08dc97a0bf22_480p.mp4",
+    "subtitlePath": "7677436.json"
+  },
+  {
+    "type": "video",
     "title": "Under the Hood",
     "releasedDate": "2024-06-24",
     "duration": "00:01:00",
